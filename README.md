@@ -8,7 +8,7 @@ We built **Image Resize AI** with a different philosophy: **Privacy is not a fea
 
 The internet is filled with "dominating" tools that require you to upload your personal photos, professional headshots, or sensitive documents to their remote servers just to perform a simple crop or resize. As a developer and a user, **I couldn't trust them.** I didn't want my images living on a random server forever.
 
-That is why I built this tool. **Image Resize AI** uses advanced **Client-Side Processing**. This means when you "upload" an image here, it never actually leaves your computer. All the "magic"—the AI resizing, the cropping, and the compression—happens **locally in your browser**.
+That is why I built this tool. **[Image Resize AI](https://imageresizeai.com)** uses advanced **Client-Side Processing**. This means when you "upload" an image here, it never actually leaves your computer. All the "magic"—the AI resizing, the cropping, and the compression—happens **locally in your browser**.
 
 **No Server Uploads. No Data Collection. 100% Privacy.**
 
