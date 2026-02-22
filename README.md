@@ -1,4 +1,6 @@
-# ImageResizeAI: Privacy-First AI Image Resizer, 100% Client-Side Image Toolkit
+# The Privacy-First AI Image Resizer, 100% Client-Side Image Toolkit.
+
+<img width="1200" height="630" alt="AI Image Resizer" src="https://github.com/user-attachments/assets/68b26fd9-cc48-4105-b1c6-8518fe77d25d" />
 
 Welcome to **ImageResizeAI.com**, the ultimate destination for high-performance image optimization where **your privacy is the priority**. Most online image tools claim to be "free," but they pay for their servers by **saving your private images to their databases** or tracking your data.
 
